@@ -1,6 +1,6 @@
 # 🗳️ Secure Voting System — Burp Suite Exploit Demo & Defense
 
-A complete demonstration of how a simple online voting system can be exploited using **Burp Suite**, and how to detect and prevent such abuse using **IP tracking**, **rate limiting**, and **Google reCAPTCHA**.
+A complete demonstration of how a simple online voting system can be exploited using **Burp Suite**, and how to detect and prevent such abuse using **IP tracking**and **rate limiting**, .
 
 ---
 
