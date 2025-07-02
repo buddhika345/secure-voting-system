@@ -9,7 +9,7 @@ A complete demonstration of how a simple online voting system can be exploited u
 - ✅ Build a basic online voting platform using PHP & MySQL
 - 🧪 Simulate an attack using **Burp Suite's Repeater** to vote multiple times
 - 🕵️ Track attackers using **IP logging** and **user-agent** analysis
-- 🔒 Implement defense mechanisms: **reCAPTCHA**, **IP-based rate limiting**, and **error feedback**
+- 🔒 Implement defense mechanisms: **IP-based rate limiting**, and **error feedback**
 
 ---
 
@@ -35,7 +35,7 @@ voting-system/
 - MySQL or MariaDB
 - Apache (XAMPP / LAMP / WAMP or similar)
 - Burp Suite (Community Edition is fine)
-- Google reCAPTCHA v2 site & secret key *(optional but recommended)*
+
 
 ---
 🙌 Author
